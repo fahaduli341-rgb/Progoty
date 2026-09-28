@@ -1,0 +1,6 @@
+{
+  "name": "PRAGATI - PJUS | NGO & Microfinance",
+  "description": "Official portal for PRAGATI - PJUS (pjus-bd.org), driving community empowerment, sustainable microfinance, and socio-economic welfare in Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
